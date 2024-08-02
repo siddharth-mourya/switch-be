@@ -1,0 +1,1 @@
+// This controller will take care of user device relationship
